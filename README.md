@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🛠️ DataForge ID | Automating Data Collection
 
-<!--
-**DataForgeID/DataForgeID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the home of **DataForge ID**. We focus on building efficient web scrapers and automation tools using Python and Termux.
 
-Here are some ideas to get you started:
+### 🚀 Projects & Focus
+- **Financial Scraping:** Tracking gold prices (Antam) in real-time. [Lihat di Scraper Collection]
+- **News Aggregation:** Collecting trending news from major Indonesian portals.
+- **Automation:** Scheduling tasks to run seamlessly on mobile environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Activity
+![DataForgeID's Stats](https://github-readme-stats.vercel.app/api?username=DataForgeID&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataForgeID&layout=compact&theme=dark&hide_border=true)
+
+---
+*Driven by data, forged with code.*
